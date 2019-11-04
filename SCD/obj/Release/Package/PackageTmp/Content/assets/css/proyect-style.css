@@ -1,0 +1,23 @@
+/*Aca va todo nuestor css comentados*/
+/*Carlos*/
+/*07-02-2019*/
+.login-content-left{
+    content: inherit;
+    float: left;
+    padding-left: 35px;
+}
+
+/*boton borrar small*/
+/*maickol*/
+/*09-02-2019*/
+.borrar{
+   margin-left:1rem;
+}
+/*boton agregar ciudadano*/
+/*maickol*/
+/*09-02-2019*/
+.agregarCiudadano{
+    padding-bottom:3rem;
+    padding-right:100px;
+}
+

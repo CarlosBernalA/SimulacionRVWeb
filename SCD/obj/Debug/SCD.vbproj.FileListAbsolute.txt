@@ -1,0 +1,1457 @@
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\roslyn\csc.exe
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\roslyn\vbc.exe
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\roslyn\VBCSCompiler.exe
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\SCD.dll.config
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\SCD.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\SCD.pdb
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\SCD.xml
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\Antlr3.Runtime.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\EntityFramework.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\EntityFramework.SqlServer.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\Microsoft.Owin.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\Microsoft.Owin.Security.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\Newtonsoft.Json.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\Owin.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\System.Web.Helpers.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\System.Web.Mvc.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\System.Web.Optimization.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\System.Web.Razor.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\System.Web.WebPages.Deployment.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\System.Web.WebPages.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\System.Web.WebPages.Razor.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\WebGrease.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\System.Web.Helpers.xml
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\System.Web.Mvc.xml
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\System.Web.Optimization.xml
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\System.Web.Razor.xml
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\System.Web.WebPages.xml
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\System.Web.WebPages.Deployment.xml
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\System.Web.WebPages.Razor.xml
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\Antlr3.Runtime.pdb
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\Newtonsoft.Json.xml
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\EntityFramework.xml
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\EntityFramework.SqlServer.xml
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\Microsoft.Owin.xml
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\Microsoft.Owin.Security.xml
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\es\System.Web.Helpers.resources.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\es\System.Web.Mvc.resources.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\es\System.Web.Optimization.resources.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\es\System.Web.Razor.resources.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\es\System.Web.WebPages.resources.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\es\EntityFramework.resources.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\es\Microsoft.Owin.resources.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\obj\Debug\SCD.Resources.resources
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\obj\Debug\SCD.vbproj.GenerateResource.Cache
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\obj\Debug\SCD.dll
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\obj\Debug\SCD.xml
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\obj\Debug\SCD.pdb
+C:\Users\LGNestor-LAPTOP\Desktop\Clinica\SCD\SCD\obj\Debug\SCD.vbprojResolveAssemblyReference.cache
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\roslyn\csc.exe
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\roslyn\vbc.exe
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\roslyn\VBCSCompiler.exe
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\SCD.dll.config
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\SCD.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\SCD.pdb
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\SCD.xml
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\Persistencia.1.0.0.0.Fakes.fakesconfig
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\Antlr3.Runtime.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\Business.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\EntityFramework.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\EntityFramework.SqlServer.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\Microsoft.Owin.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\Microsoft.Owin.Security.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\Newtonsoft.Json.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\Owin.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\Persistencia.1.0.0.0.Fakes.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\Persistencia.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\System.Web.Helpers.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\System.Web.Mvc.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\System.Web.Optimization.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\System.Web.Razor.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\System.Web.WebPages.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\System.Web.WebPages.Razor.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\WebGrease.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\EnterpriseLibrary.Data.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\EnterpriseLibrary.Common.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\EnterpriseLibrary.Security.Cryptography.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\Business.pdb
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\Persistencia.pdb
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\Persistencia.1.0.0.0.Fakes.xml
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\System.Web.Helpers.xml
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\System.Web.Mvc.xml
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\System.Web.Optimization.xml
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\System.Web.Razor.xml
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\System.Web.WebPages.xml
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\System.Web.WebPages.Razor.xml
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\Antlr3.Runtime.pdb
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\Newtonsoft.Json.xml
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\EntityFramework.xml
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\EntityFramework.SqlServer.xml
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\Microsoft.Owin.xml
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\Microsoft.Owin.Security.xml
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\es\System.Web.Razor.resources.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\es\EntityFramework.resources.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\obj\Debug\SCD.Resources.resources
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\obj\Debug\SCD.vbproj.GenerateResource.Cache
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\obj\Debug\SCD.dll
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\obj\Debug\SCD.xml
+C:\Users\Carlo\Documents\Clinica\Clinica\SCD\SCD\obj\Debug\SCD.pdb
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\roslyn\csc.exe
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\roslyn\vbc.exe
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\roslyn\VBCSCompiler.exe
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\SCD.dll.config
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\SCD.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\SCD.pdb
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\SCD.xml
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\Persistencia.1.0.0.0.Fakes.fakesconfig
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\Antlr3.Runtime.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\EntityFramework.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\EntityFramework.SqlServer.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\Microsoft.Owin.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\Microsoft.Owin.Security.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\Newtonsoft.Json.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\Owin.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\Persistencia.1.0.0.0.Fakes.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\System.Web.Helpers.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\System.Web.Mvc.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\System.Web.Optimization.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\System.Web.Razor.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\System.Web.WebPages.Deployment.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\System.Web.WebPages.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\System.Web.WebPages.Razor.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\WebGrease.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\Persistencia.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\Persistencia.1.0.0.0.Fakes.xml
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\System.Web.Helpers.xml
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\System.Web.Mvc.xml
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\System.Web.Optimization.xml
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\System.Web.Razor.xml
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\System.Web.WebPages.xml
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\System.Web.WebPages.Deployment.xml
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\System.Web.WebPages.Razor.xml
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\Antlr3.Runtime.pdb
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\Newtonsoft.Json.xml
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\EntityFramework.xml
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\EntityFramework.SqlServer.xml
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\Microsoft.Owin.xml
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\Microsoft.Owin.Security.xml
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\es\System.Web.Helpers.resources.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\es\System.Web.Mvc.resources.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\es\System.Web.Optimization.resources.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\es\System.Web.Razor.resources.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\es\System.Web.WebPages.resources.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\es\EntityFramework.resources.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\es\Microsoft.Owin.resources.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\obj\Debug\SCD.Resources.resources
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\obj\Debug\SCD.vbproj.GenerateResource.Cache
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\obj\Debug\SCD.dll
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\obj\Debug\SCD.xml
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\obj\Debug\SCD.pdb
+C:\Users\RIPLEY\Downloads\Clinica\Clinica\SCD\SCD\obj\Debug\SCD.vbprojFakesResolveAssemblyReference.cache
+F:\Proyectos Visual Studio\SCD\SCD\bin\roslyn\csc.exe
+F:\Proyectos Visual Studio\SCD\SCD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Proyectos Visual Studio\SCD\SCD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Proyectos Visual Studio\SCD\SCD\bin\roslyn\System.Collections.Immutable.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\roslyn\System.Reflection.Metadata.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\roslyn\vbc.exe
+F:\Proyectos Visual Studio\SCD\SCD\bin\roslyn\VBCSCompiler.exe
+F:\Proyectos Visual Studio\SCD\SCD\bin\roslyn\VBCSCompiler.exe.config
+F:\Proyectos Visual Studio\SCD\SCD\bin\SCD.dll.config
+F:\Proyectos Visual Studio\SCD\SCD\bin\SCD.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\SCD.pdb
+F:\Proyectos Visual Studio\SCD\SCD\bin\SCD.xml
+F:\Proyectos Visual Studio\SCD\SCD\bin\Antlr3.Runtime.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\EntityFramework.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\EntityFramework.SqlServer.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\Microsoft.Owin.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\Microsoft.Owin.Security.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\Microsoft.Owin.Security.Google.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\Microsoft.Web.Infrastructure.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\Newtonsoft.Json.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\Owin.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\Persistencia.1.0.0.0.Fakes.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\System.Web.Helpers.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\System.Web.Mvc.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\System.Web.Optimization.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\System.Web.Razor.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\System.Web.WebPages.Deployment.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\System.Web.WebPages.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\System.Web.WebPages.Razor.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\WebGrease.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Proyectos Visual Studio\SCD\SCD\bin\Persistencia.1.0.0.0.Fakes.xml
+F:\Proyectos Visual Studio\SCD\SCD\bin\System.Web.Helpers.xml
+F:\Proyectos Visual Studio\SCD\SCD\bin\System.Web.Mvc.xml
+F:\Proyectos Visual Studio\SCD\SCD\bin\System.Web.Optimization.xml
+F:\Proyectos Visual Studio\SCD\SCD\bin\System.Web.Razor.xml
+F:\Proyectos Visual Studio\SCD\SCD\bin\System.Web.WebPages.xml
+F:\Proyectos Visual Studio\SCD\SCD\bin\System.Web.WebPages.Deployment.xml
+F:\Proyectos Visual Studio\SCD\SCD\bin\System.Web.WebPages.Razor.xml
+F:\Proyectos Visual Studio\SCD\SCD\bin\Antlr3.Runtime.pdb
+F:\Proyectos Visual Studio\SCD\SCD\bin\Newtonsoft.Json.xml
+F:\Proyectos Visual Studio\SCD\SCD\bin\EntityFramework.xml
+F:\Proyectos Visual Studio\SCD\SCD\bin\EntityFramework.SqlServer.xml
+F:\Proyectos Visual Studio\SCD\SCD\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Proyectos Visual Studio\SCD\SCD\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Proyectos Visual Studio\SCD\SCD\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Proyectos Visual Studio\SCD\SCD\bin\Microsoft.Owin.xml
+F:\Proyectos Visual Studio\SCD\SCD\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Proyectos Visual Studio\SCD\SCD\bin\Microsoft.Owin.Security.xml
+F:\Proyectos Visual Studio\SCD\SCD\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Proyectos Visual Studio\SCD\SCD\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Proyectos Visual Studio\SCD\SCD\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Proyectos Visual Studio\SCD\SCD\bin\Microsoft.Owin.Security.Google.xml
+F:\Proyectos Visual Studio\SCD\SCD\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Proyectos Visual Studio\SCD\SCD\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Proyectos Visual Studio\SCD\SCD\bin\es\System.Web.Helpers.resources.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\es\System.Web.Mvc.resources.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\es\System.Web.Optimization.resources.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\es\System.Web.Razor.resources.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\es\System.Web.WebPages.resources.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\es\System.Web.WebPages.Deployment.resources.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\es\System.Web.WebPages.Razor.resources.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\es\EntityFramework.resources.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\es\EntityFramework.SqlServer.resources.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\es\Microsoft.Owin.resources.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\es\Microsoft.Owin.Security.resources.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\es\Microsoft.Owin.Security.Google.resources.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+F:\Proyectos Visual Studio\SCD\SCD\obj\Debug\SCD.vbprojResolveAssemblyReference.cache
+F:\Proyectos Visual Studio\SCD\SCD\obj\Debug\SCD.Resources.resources
+F:\Proyectos Visual Studio\SCD\SCD\obj\Debug\SCD.vbproj.GenerateResource.Cache
+F:\Proyectos Visual Studio\SCD\SCD\obj\Debug\SCD.dll
+F:\Proyectos Visual Studio\SCD\SCD\obj\Debug\SCD.xml
+F:\Proyectos Visual Studio\SCD\SCD\obj\Debug\SCD.pdb
+F:\Proyectos Visual Studio\SCD\SCD\bin\Persistencia.dll
+F:\Proyectos Visual Studio\SCD\SCD\bin\Persistencia.pdb
+F:\Proyectos Visual Studio\SCD\SCD\bin\Persistencia.xml
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\roslyn\csc.exe
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\roslyn\vbc.exe
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\roslyn\VBCSCompiler.exe
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\SCD.dll.config
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\SCD.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\SCD.pdb
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\SCD.xml
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\Persistencia.1.0.0.0.Fakes.fakesconfig
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\Antlr3.Runtime.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\EntityFramework.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\EntityFramework.SqlServer.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\Microsoft.Owin.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\Microsoft.Owin.Security.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\Newtonsoft.Json.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\Owin.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\Persistencia.1.0.0.0.Fakes.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\Persistencia.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\System.Web.Helpers.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\System.Web.Mvc.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\System.Web.Optimization.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\System.Web.Razor.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\System.Web.WebPages.Deployment.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\System.Web.WebPages.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\System.Web.WebPages.Razor.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\WebGrease.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\Persistencia.pdb
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\Persistencia.xml
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\Persistencia.1.0.0.0.Fakes.xml
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\System.Web.Helpers.xml
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\System.Web.Mvc.xml
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\System.Web.Optimization.xml
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\System.Web.Razor.xml
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\System.Web.WebPages.xml
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\System.Web.WebPages.Deployment.xml
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\System.Web.WebPages.Razor.xml
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\Antlr3.Runtime.pdb
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\Newtonsoft.Json.xml
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\EntityFramework.xml
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\EntityFramework.SqlServer.xml
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\Microsoft.Owin.xml
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\Microsoft.Owin.Security.xml
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\es\System.Web.Helpers.resources.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\es\System.Web.Mvc.resources.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\es\System.Web.Optimization.resources.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\es\System.Web.Razor.resources.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\es\System.Web.WebPages.resources.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\es\EntityFramework.resources.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\es\Microsoft.Owin.resources.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\obj\Debug\SCD.Resources.resources
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\obj\Debug\SCD.vbproj.GenerateResource.Cache
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\obj\Debug\SCD.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\obj\Debug\SCD.xml
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\obj\Debug\SCD.pdb
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\SCD\obj\Debug\SCD.vbprojFakesResolveAssemblyReference.cache
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\roslyn\csc.exe
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\roslyn\System.Collections.Immutable.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\roslyn\System.Reflection.Metadata.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\roslyn\vbc.exe
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\roslyn\VBCSCompiler.exe
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\roslyn\VBCSCompiler.exe.config
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\SCD.dll.config
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\SCD.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\SCD.pdb
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\SCD.xml
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Antlr3.Runtime.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\EntityFramework.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\EntityFramework.SqlServer.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.AspNet.Identity.Core.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.Cookies.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.Facebook.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.Google.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.OAuth.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.Twitter.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Web.Infrastructure.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Newtonsoft.Json.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Owin.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Persistencia.1.0.0.0.Fakes.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Persistencia.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.Helpers.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.Mvc.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.Optimization.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.Razor.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.WebPages.Deployment.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.WebPages.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.WebPages.Razor.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\WebGrease.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Persistencia.pdb
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Persistencia.1.0.0.0.Fakes.xml
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.Helpers.xml
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.Mvc.xml
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.Optimization.xml
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.Razor.xml
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.WebPages.xml
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.WebPages.Deployment.xml
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.WebPages.Razor.xml
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Antlr3.Runtime.pdb
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Newtonsoft.Json.xml
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\EntityFramework.xml
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\EntityFramework.SqlServer.xml
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.AspNet.Identity.Core.xml
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.xml
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.xml
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.Facebook.xml
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.Cookies.xml
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.OAuth.xml
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.Google.xml
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.Twitter.xml
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\System.Web.Helpers.resources.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\System.Web.Mvc.resources.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\System.Web.Optimization.resources.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\System.Web.Razor.resources.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\System.Web.WebPages.resources.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\System.Web.WebPages.Deployment.resources.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\System.Web.WebPages.Razor.resources.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\EntityFramework.resources.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\EntityFramework.SqlServer.resources.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\Microsoft.Owin.resources.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\Microsoft.Owin.Security.resources.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\Microsoft.Owin.Security.Google.resources.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\SCD.Resources.resources
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\SCD.vbproj.GenerateResource.Cache
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\SCD.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\SCD.xml
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\SCD.pdb
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Persistencia.xml
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\roslyn\csc.exe
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\roslyn\System.Collections.Immutable.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\roslyn\System.Reflection.Metadata.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\roslyn\vbc.exe
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\roslyn\VBCSCompiler.exe
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\roslyn\VBCSCompiler.exe.config
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\SCD.dll.config
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\SCD.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\SCD.pdb
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\SCD.xml
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Antlr3.Runtime.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\EntityFramework.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\EntityFramework.SqlServer.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.Google.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Web.Infrastructure.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Newtonsoft.Json.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Owin.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Persistencia.1.0.0.0.Fakes.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Persistencia.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.Helpers.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.Mvc.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.Optimization.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.Razor.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.WebPages.Deployment.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.WebPages.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.WebPages.Razor.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\WebGrease.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Persistencia.pdb
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Persistencia.xml
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Persistencia.1.0.0.0.Fakes.xml
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.Helpers.xml
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.Mvc.xml
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.Optimization.xml
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.Razor.xml
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.WebPages.xml
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.WebPages.Deployment.xml
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.WebPages.Razor.xml
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Antlr3.Runtime.pdb
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Newtonsoft.Json.xml
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\EntityFramework.xml
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\EntityFramework.SqlServer.xml
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.xml
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.xml
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.Google.xml
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\System.Web.Helpers.resources.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\System.Web.Mvc.resources.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\System.Web.Optimization.resources.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\System.Web.Razor.resources.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\System.Web.WebPages.resources.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\EntityFramework.resources.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\EntityFramework.SqlServer.resources.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\Microsoft.Owin.resources.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\Microsoft.Owin.Security.resources.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\Microsoft.Owin.Security.Google.resources.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\SCD.vbprojResolveAssemblyReference.cache
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\SCD.Resources.resources
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\SCD.vbproj.GenerateResource.Cache
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\SCD.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\SCD.xml
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\SCD.pdb
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\roslyn\csc.exe
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\roslyn\Microsoft.CSharp.Core.targets
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\roslyn\System.Collections.Immutable.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\roslyn\System.Reflection.Metadata.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\roslyn\vbc.exe
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\roslyn\VBCSCompiler.exe
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\roslyn\VBCSCompiler.exe.config
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\SCD.dll.config
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\SCD.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\SCD.pdb
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\SCD.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Persistencia.1.0.0.0.Fakes.fakesconfig
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Antlr3.Runtime.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\EntityFramework.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\EntityFramework.SqlServer.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.AspNet.Identity.Core.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.AspNet.Identity.Owin.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.Cookies.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.Facebook.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.Google.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.OAuth.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.Twitter.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.QualityTools.Testing.Fakes.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Web.Infrastructure.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Newtonsoft.Json.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Owin.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Persistencia.1.0.0.0.Fakes.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Persistencia.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.Helpers.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.Mvc.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.Optimization.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.Razor.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.WebPages.Deployment.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.WebPages.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.WebPages.Razor.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\WebGrease.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Persistencia.pdb
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Persistencia.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Persistencia.1.0.0.0.Fakes.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.Helpers.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.Mvc.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.Optimization.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.Razor.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.WebPages.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.WebPages.Deployment.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.WebPages.Razor.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Antlr3.Runtime.pdb
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Newtonsoft.Json.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\EntityFramework.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\EntityFramework.SqlServer.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.AspNet.Identity.Core.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.AspNet.Identity.Owin.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.Facebook.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.Cookies.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.OAuth.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.Google.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.Twitter.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\System.Web.Helpers.resources.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\System.Web.Mvc.resources.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\System.Web.Optimization.resources.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\System.Web.Razor.resources.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\System.Web.WebPages.resources.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\System.Web.WebPages.Deployment.resources.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\System.Web.WebPages.Razor.resources.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\EntityFramework.resources.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\EntityFramework.SqlServer.resources.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\Microsoft.Owin.resources.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\Microsoft.Owin.Security.resources.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\Microsoft.Owin.Security.Google.resources.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\SCD.vbprojFakesResolveAssemblyReference.cache
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\fakes.args
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Antlr3.Runtime.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Antlr3.Runtime.pdb
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\EntityFramework.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\EntityFramework.SqlServer.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\EntityFramework.SqlServer.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\EntityFramework.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\es\EntityFramework.resources.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\es\EntityFramework.SqlServer.resources.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\es\Microsoft.AspNet.Identity.Core.resources.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\es\Microsoft.AspNet.Identity.Owin.resources.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\es\Microsoft.Owin.resources.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\es\Microsoft.Owin.Security.Facebook.resources.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\es\Microsoft.Owin.Security.Google.resources.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\es\Microsoft.Owin.Security.resources.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\es\Microsoft.Owin.Security.Twitter.resources.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\es\System.Web.Helpers.resources.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\es\System.Web.Mvc.resources.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\es\System.Web.Optimization.resources.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\es\System.Web.Razor.resources.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\es\System.Web.WebPages.Deployment.resources.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\es\System.Web.WebPages.Razor.resources.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\es\System.Web.WebPages.resources.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.AspNet.Identity.Core.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.AspNet.Identity.Core.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.AspNet.Identity.EntityFramework.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.AspNet.Identity.EntityFramework.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.AspNet.Identity.Owin.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.AspNet.Identity.Owin.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.Owin.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.Owin.Host.SystemWeb.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.Owin.Host.SystemWeb.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.Owin.Security.Cookies.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.Owin.Security.Cookies.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.Owin.Security.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.Owin.Security.Facebook.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.Owin.Security.Facebook.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.Owin.Security.Google.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.Owin.Security.Google.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.Owin.Security.OAuth.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.Owin.Security.OAuth.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.Owin.Security.Twitter.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.Owin.Security.Twitter.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.Owin.Security.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.Owin.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.QualityTools.Testing.Fakes.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.Web.Infrastructure.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Newtonsoft.Json.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Newtonsoft.Json.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Owin.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Persistencia.1.0.0.0.Fakes.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Persistencia.1.0.0.0.Fakes.fakesconfig
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Persistencia.1.0.0.0.Fakes.pdb
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Persistencia.1.0.0.0.Fakes.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Persistencia.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Persistencia.pdb
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Persistencia.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\System.Web.Helpers.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\System.Web.Helpers.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\System.Web.Mvc.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\System.Web.Mvc.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\System.Web.Optimization.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\System.Web.Optimization.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\System.Web.Razor.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\System.Web.Razor.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\System.Web.WebPages.Deployment.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\System.Web.WebPages.Deployment.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\System.Web.WebPages.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\System.Web.WebPages.Razor.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\System.Web.WebPages.Razor.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\System.Web.WebPages.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\WebGrease.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\f.ah
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\f.ch
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\f.cs
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\f.csproj
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\f.fakes
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\f.fakesconfig
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\o\f.csproj.FileListAbsolute.txt
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\o\f.csprojResolveAssemblyReference.cache
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\o\Persistencia.1.0.0.0.Fakes.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\o\Persistencia.1.0.0.0.Fakes.pdb
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\SCD.vbprojResolveAssemblyReference.cache
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\SCD.Resources.resources
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\SCD.vbproj.GenerateResource.Cache
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\SCD.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\SCD.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\SCD.pdb
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\roslyn\csc.exe
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\roslyn\Microsoft.CSharp.Core.targets
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\roslyn\System.Collections.Immutable.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\roslyn\System.Reflection.Metadata.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\roslyn\vbc.exe
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\roslyn\VBCSCompiler.exe
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\roslyn\VBCSCompiler.exe.config
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\SCD.dll.config
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\SCD.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\SCD.pdb
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\SCD.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Persistencia.1.0.0.0.Fakes.fakesconfig
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Antlr3.Runtime.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\EntityFramework.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\EntityFramework.SqlServer.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.AspNet.Identity.Core.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.AspNet.Identity.Owin.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.Cookies.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.Facebook.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.Google.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.OAuth.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.Twitter.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.QualityTools.Testing.Fakes.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Web.Infrastructure.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Newtonsoft.Json.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Owin.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Persistencia.1.0.0.0.Fakes.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Persistencia.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.Helpers.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.Mvc.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.Optimization.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.Razor.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.WebPages.Deployment.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.WebPages.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.WebPages.Razor.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\WebGrease.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Persistencia.pdb
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Persistencia.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Persistencia.1.0.0.0.Fakes.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.Helpers.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.Mvc.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.Optimization.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.Razor.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.WebPages.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.WebPages.Deployment.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\System.Web.WebPages.Razor.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Antlr3.Runtime.pdb
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Newtonsoft.Json.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\EntityFramework.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\EntityFramework.SqlServer.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.AspNet.Identity.Core.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.AspNet.Identity.Owin.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.Facebook.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.Cookies.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.OAuth.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.Google.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.Twitter.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\System.Web.Helpers.resources.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\System.Web.Mvc.resources.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\System.Web.Optimization.resources.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\System.Web.Razor.resources.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\System.Web.WebPages.resources.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\System.Web.WebPages.Deployment.resources.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\System.Web.WebPages.Razor.resources.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\EntityFramework.resources.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\EntityFramework.SqlServer.resources.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\Microsoft.Owin.resources.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\Microsoft.Owin.Security.resources.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\Microsoft.Owin.Security.Google.resources.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\SCD.vbprojFakesResolveAssemblyReference.cache
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\fakes.args
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Antlr3.Runtime.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Antlr3.Runtime.pdb
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\EntityFramework.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\EntityFramework.SqlServer.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\EntityFramework.SqlServer.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\EntityFramework.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\es\EntityFramework.resources.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\es\EntityFramework.SqlServer.resources.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\es\Microsoft.AspNet.Identity.Core.resources.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\es\Microsoft.AspNet.Identity.Owin.resources.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\es\Microsoft.Owin.resources.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\es\Microsoft.Owin.Security.Facebook.resources.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\es\Microsoft.Owin.Security.Google.resources.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\es\Microsoft.Owin.Security.resources.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\es\Microsoft.Owin.Security.Twitter.resources.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\es\System.Web.Helpers.resources.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\es\System.Web.Mvc.resources.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\es\System.Web.Optimization.resources.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\es\System.Web.Razor.resources.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\es\System.Web.WebPages.Deployment.resources.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\es\System.Web.WebPages.Razor.resources.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\es\System.Web.WebPages.resources.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.AspNet.Identity.Core.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.AspNet.Identity.Core.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.AspNet.Identity.EntityFramework.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.AspNet.Identity.EntityFramework.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.AspNet.Identity.Owin.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.AspNet.Identity.Owin.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.Owin.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.Owin.Host.SystemWeb.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.Owin.Host.SystemWeb.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.Owin.Security.Cookies.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.Owin.Security.Cookies.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.Owin.Security.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.Owin.Security.Facebook.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.Owin.Security.Facebook.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.Owin.Security.Google.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.Owin.Security.Google.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.Owin.Security.OAuth.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.Owin.Security.OAuth.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.Owin.Security.Twitter.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.Owin.Security.Twitter.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.Owin.Security.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.Owin.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.QualityTools.Testing.Fakes.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Microsoft.Web.Infrastructure.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Newtonsoft.Json.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Newtonsoft.Json.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Owin.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Persistencia.1.0.0.0.Fakes.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Persistencia.1.0.0.0.Fakes.fakesconfig
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Persistencia.1.0.0.0.Fakes.pdb
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Persistencia.1.0.0.0.Fakes.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Persistencia.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Persistencia.pdb
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\Persistencia.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\System.Web.Helpers.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\System.Web.Helpers.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\System.Web.Mvc.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\System.Web.Mvc.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\System.Web.Optimization.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\System.Web.Optimization.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\System.Web.Razor.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\System.Web.Razor.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\System.Web.WebPages.Deployment.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\System.Web.WebPages.Deployment.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\System.Web.WebPages.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\System.Web.WebPages.Razor.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\System.Web.WebPages.Razor.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\System.Web.WebPages.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\b\WebGrease.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\f.ah
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\f.ch
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\f.cs
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\f.csproj
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\f.fakes
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\f.fakesconfig
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\o\f.csproj.FileListAbsolute.txt
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\o\f.csprojResolveAssemblyReference.cache
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\o\Persistencia.1.0.0.0.Fakes.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\Fakes\p\o\Persistencia.1.0.0.0.Fakes.pdb
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\SCD.vbprojResolveAssemblyReference.cache
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\SCD.Resources.resources
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\SCD.vbproj.GenerateResource.Cache
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\SCD.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\SCD.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\SCD\obj\Debug\SCD.pdb
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\roslyn\csc.exe
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\roslyn\vbc.exe
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\SCD.dll.config
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\SCD.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\SCD.pdb
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\SCD.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\Antlr3.Runtime.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\EntityFramework.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\EntityFramework.SqlServer.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\Microsoft.Owin.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\Microsoft.Owin.Security.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\Newtonsoft.Json.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\Owin.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\Persistencia.1.0.0.0.Fakes.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\Persistencia.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\System.Web.Helpers.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\System.Web.Mvc.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\System.Web.Optimization.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\System.Web.Razor.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\System.Web.WebPages.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\System.Web.WebPages.Razor.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\WebGrease.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\Persistencia.pdb
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\Persistencia.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\Persistencia.1.0.0.0.Fakes.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\System.Web.Helpers.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\System.Web.Mvc.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\System.Web.Optimization.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\System.Web.Razor.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\System.Web.WebPages.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\System.Web.WebPages.Razor.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\Antlr3.Runtime.pdb
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\Newtonsoft.Json.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\EntityFramework.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\EntityFramework.SqlServer.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\Microsoft.Owin.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\Microsoft.Owin.Security.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\es\System.Web.Razor.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\es\EntityFramework.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\obj\Debug\SCD.vbprojResolveAssemblyReference.cache
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\obj\Debug\SCD.Resources.resources
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\obj\Debug\SCD.vbproj.GenerateResource.Cache
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\obj\Debug\SCD.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\obj\Debug\SCD.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\SCD\obj\Debug\SCD.pdb
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\obj\Debug\SCD.vbprojResolveAssemblyReference.cache
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\obj\Debug\SCD.Resources.resources
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\obj\Debug\SCD.vbproj.GenerateResource.Cache
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\obj\Debug\SCD.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\obj\Debug\SCD.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\obj\Debug\SCD.pdb
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\roslyn\csc.exe
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\roslyn\vbc.exe
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\SCD.dll.config
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\SCD.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\SCD.pdb
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\SCD.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\Antlr3.Runtime.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\EntityFramework.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\EntityFramework.SqlServer.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\Microsoft.Owin.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\Microsoft.Owin.Security.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\Newtonsoft.Json.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\Owin.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\Persistencia.1.0.0.0.Fakes.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\Persistencia.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\System.Web.Helpers.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\System.Web.Mvc.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\System.Web.Optimization.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\System.Web.Razor.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\System.Web.WebPages.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\System.Web.WebPages.Razor.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\WebGrease.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\Persistencia.pdb
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\Persistencia.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\Persistencia.1.0.0.0.Fakes.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\System.Web.Helpers.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\System.Web.Mvc.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\System.Web.Optimization.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\System.Web.Razor.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\System.Web.WebPages.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\System.Web.WebPages.Razor.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\Antlr3.Runtime.pdb
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\Newtonsoft.Json.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\EntityFramework.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\EntityFramework.SqlServer.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\Microsoft.Owin.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\Microsoft.Owin.Security.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\es\System.Web.Razor.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\es\EntityFramework.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\SCD\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\roslyn\csc.exe
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\roslyn\vbc.exe
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\SCD.dll.config
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\SCD.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\SCD.pdb
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\SCD.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\Antlr3.Runtime.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\EntityFramework.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\EntityFramework.SqlServer.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\Microsoft.Owin.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\Microsoft.Owin.Security.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\Newtonsoft.Json.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\Owin.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\Persistencia.1.0.0.0.Fakes.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\Persistencia.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\System.Web.Helpers.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\System.Web.Mvc.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\System.Web.Optimization.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\System.Web.Razor.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\System.Web.WebPages.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\System.Web.WebPages.Razor.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\WebGrease.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\Persistencia.pdb
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\Persistencia.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\Persistencia.1.0.0.0.Fakes.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\System.Web.Helpers.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\System.Web.Mvc.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\System.Web.Optimization.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\System.Web.Razor.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\System.Web.WebPages.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\System.Web.WebPages.Razor.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\Antlr3.Runtime.pdb
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\Newtonsoft.Json.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\EntityFramework.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\EntityFramework.SqlServer.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\Microsoft.Owin.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\Microsoft.Owin.Security.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\es\System.Web.Razor.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\es\EntityFramework.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\obj\Debug\SCD.vbprojResolveAssemblyReference.cache
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\obj\Debug\SCD.Resources.resources
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\obj\Debug\SCD.vbproj.GenerateResource.Cache
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\obj\Debug\SCD.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\obj\Debug\SCD.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\SCD\obj\Debug\SCD.pdb
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\roslyn\csc.exe
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\roslyn\System.Collections.Immutable.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\roslyn\System.Reflection.Metadata.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\roslyn\vbc.exe
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\roslyn\VBCSCompiler.exe
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\roslyn\VBCSCompiler.exe.config
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\SCD.dll.config
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\SCD.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\SCD.pdb
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\SCD.xml
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\Antlr3.Runtime.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\EntityFramework.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\EntityFramework.SqlServer.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\Microsoft.Owin.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\Microsoft.Owin.Security.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\Microsoft.Owin.Security.Google.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\Microsoft.Web.Infrastructure.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\Newtonsoft.Json.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\Owin.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\Persistencia.1.0.0.0.Fakes.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\Persistencia.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\System.Web.Helpers.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\System.Web.Mvc.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\System.Web.Optimization.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\System.Web.Razor.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\System.Web.WebPages.Deployment.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\System.Web.WebPages.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\System.Web.WebPages.Razor.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\WebGrease.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\Persistencia.pdb
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\Persistencia.1.0.0.0.Fakes.xml
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\System.Web.Helpers.xml
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\System.Web.Mvc.xml
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\System.Web.Optimization.xml
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\System.Web.Razor.xml
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\System.Web.WebPages.xml
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\System.Web.WebPages.Deployment.xml
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\System.Web.WebPages.Razor.xml
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\Antlr3.Runtime.pdb
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\Newtonsoft.Json.xml
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\EntityFramework.xml
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\EntityFramework.SqlServer.xml
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\Microsoft.Owin.xml
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\Microsoft.Owin.Security.xml
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\Microsoft.Owin.Security.Google.xml
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\es\System.Web.Helpers.resources.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\es\System.Web.Mvc.resources.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\es\System.Web.Optimization.resources.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\es\System.Web.Razor.resources.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\es\System.Web.WebPages.resources.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\es\EntityFramework.resources.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\es\EntityFramework.SqlServer.resources.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\es\Microsoft.Owin.resources.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\es\Microsoft.Owin.Security.resources.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\es\Microsoft.Owin.Security.Google.resources.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\obj\Debug\SCD.vbprojResolveAssemblyReference.cache
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\obj\Debug\SCD.Resources.resources
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\obj\Debug\SCD.vbproj.GenerateResource.Cache
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\obj\Debug\SCD.dll
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\obj\Debug\SCD.xml
+D:\ciclo VIII\Soluciones IV\Simulacion RV\SCD\SCD\obj\Debug\SCD.pdb

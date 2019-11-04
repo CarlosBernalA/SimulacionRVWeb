@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Persistencia.1.0.0.0.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:Persistencia.Fakes.ShimCiudadano">
+            <summary>Tipo de correcciones de compatibilidad (shim) de Persistencia.Ciudadano</summary>
+        </member>
+        <member name="M:Persistencia.Fakes.ShimCiudadano.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:Persistencia.Fakes.ShimCiudadano.#ctor(Persistencia.Ciudadano)">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="T:Persistencia.Fakes.ShimCiudadano.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="P:Persistencia.Fakes.ShimCiudadano.AllInstances.Get_All_Persons">
+            <summary>Establecer el shim de Ciudadano.Get_All_Persons()</summary>
+        </member>
+        <member name="M:Persistencia.Fakes.ShimCiudadano.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:Persistencia.Fakes.ShimCiudadano.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:Persistencia.Fakes.ShimCiudadano.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:Persistencia.Fakes.ShimCiudadano.Constructor">
+            <summary>Establecer el shim de Ciudadano.Ciudadano()</summary>
+        </member>
+        <member name="P:Persistencia.Fakes.ShimCiudadano.Get_All_Persons">
+            <summary>Establecer el shim de Ciudadano.Get_All_Persons()</summary>
+        </member>
+        <member name="T:Persistencia.Fakes.ShimConnection">
+            <summary>Tipo de correcciones de compatibilidad (shim) de Persistencia.Connection</summary>
+        </member>
+        <member name="M:Persistencia.Fakes.ShimConnection.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:Persistencia.Fakes.ShimConnection.#ctor(Persistencia.Connection)">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="T:Persistencia.Fakes.ShimConnection.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="P:Persistencia.Fakes.ShimConnection.AllInstances.CerrarConexion">
+            <summary>Establecer el shim de Connection.CerrarConexion()</summary>
+        </member>
+        <member name="P:Persistencia.Fakes.ShimConnection.AllInstances.GetConection">
+            <summary>Establecer el shim de Connection.GetConection()</summary>
+        </member>
+        <member name="M:Persistencia.Fakes.ShimConnection.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:Persistencia.Fakes.ShimConnection.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:Persistencia.Fakes.ShimConnection.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:Persistencia.Fakes.ShimConnection.CerrarConexion">
+            <summary>Establecer el shim de Connection.CerrarConexion()</summary>
+        </member>
+        <member name="P:Persistencia.Fakes.ShimConnection.Constructor">
+            <summary>Establecer el shim de Connection.Connection()</summary>
+        </member>
+        <member name="P:Persistencia.Fakes.ShimConnection.GetConection">
+            <summary>Establecer el shim de Connection.GetConection()</summary>
+        </member>
+        <member name="T:Persistencia.Fakes.StubCiudadano">
+            <summary>Tipo stub de Persistencia.Ciudadano</summary>
+        </member>
+        <member name="M:Persistencia.Fakes.StubCiudadano.#ctor">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="P:Persistencia.Fakes.StubCiudadano.CallBase">
+            <summary>Obtiene o establece un valor que indica si debe llamarse al método base en lugar del comportamiento de reserva</summary>
+        </member>
+        <member name="M:Persistencia.Fakes.StubCiudadano.InitializeStub">
+            <summary>Inicializa una nueva instancia de type StubCiudadano</summary>
+        </member>
+        <member name="P:Persistencia.Fakes.StubCiudadano.InstanceBehavior">
+            <summary>Obtiene o establece el comportamiento de instancia.</summary>
+        </member>
+        <member name="P:Persistencia.Fakes.StubCiudadano.InstanceObserver">
+            <summary>Obtiene o establece el observador de la instancia.</summary>
+        </member>
+        <member name="T:Persistencia.Fakes.StubConnection">
+            <summary>Tipo stub de Persistencia.Connection</summary>
+        </member>
+        <member name="M:Persistencia.Fakes.StubConnection.#ctor">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="P:Persistencia.Fakes.StubConnection.CallBase">
+            <summary>Obtiene o establece un valor que indica si debe llamarse al método base en lugar del comportamiento de reserva</summary>
+        </member>
+        <member name="M:Persistencia.Fakes.StubConnection.InitializeStub">
+            <summary>Inicializa una nueva instancia de type StubConnection</summary>
+        </member>
+        <member name="P:Persistencia.Fakes.StubConnection.InstanceBehavior">
+            <summary>Obtiene o establece el comportamiento de instancia.</summary>
+        </member>
+        <member name="P:Persistencia.Fakes.StubConnection.InstanceObserver">
+            <summary>Obtiene o establece el observador de la instancia.</summary>
+        </member>
+        <member name="T:Persistencia.SQL.Fakes.ShimSQLCiudadanos">
+            <summary>Tipo de correcciones de compatibilidad (shim) de Persistencia.SQL.SQLCiudadanos</summary>
+        </member>
+        <member name="M:Persistencia.SQL.Fakes.ShimSQLCiudadanos.#ctor">
+            <summary>Inicializa una nueva instancia de correcciones de compatibilidad (shim)</summary>
+        </member>
+        <member name="M:Persistencia.SQL.Fakes.ShimSQLCiudadanos.#ctor(Persistencia.SQL.SQLCiudadanos)">
+            <summary>Inicializa nuevas correcciones de compatibilidad (shim) para la instancia especificada</summary>
+        </member>
+        <member name="T:Persistencia.SQL.Fakes.ShimSQLCiudadanos.AllInstances">
+            <summary>Definir correcciones de compatibilidad (shim) para todos los miembros de instancia</summary>
+        </member>
+        <member name="M:Persistencia.SQL.Fakes.ShimSQLCiudadanos.BehaveAsCurrent">
+            <summary>Asigna el comportamiento &apos;Current&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="M:Persistencia.SQL.Fakes.ShimSQLCiudadanos.BehaveAsNotImplemented">
+            <summary>Asigna el comportamiento &apos;NotImplemented&apos; a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:Persistencia.SQL.Fakes.ShimSQLCiudadanos.Behavior">
+            <summary>Asigna el comportamiento a todos los métodos del tipo corregido para compatibilidad</summary>
+        </member>
+        <member name="P:Persistencia.SQL.Fakes.ShimSQLCiudadanos.Constructor">
+            <summary>Establecer el shim de SQLCiudadanos.SQLCiudadanos()</summary>
+        </member>
+        <member name="T:Persistencia.SQL.Fakes.StubSQLCiudadanos">
+            <summary>Tipo stub de Persistencia.SQL.SQLCiudadanos</summary>
+        </member>
+        <member name="M:Persistencia.SQL.Fakes.StubSQLCiudadanos.#ctor">
+            <summary>Inicializa una nueva instancia</summary>
+        </member>
+        <member name="P:Persistencia.SQL.Fakes.StubSQLCiudadanos.CallBase">
+            <summary>Obtiene o establece un valor que indica si debe llamarse al método base en lugar del comportamiento de reserva</summary>
+        </member>
+        <member name="M:Persistencia.SQL.Fakes.StubSQLCiudadanos.InitializeStub">
+            <summary>Inicializa una nueva instancia de type StubSQLCiudadanos</summary>
+        </member>
+        <member name="P:Persistencia.SQL.Fakes.StubSQLCiudadanos.InstanceBehavior">
+            <summary>Obtiene o establece el comportamiento de instancia.</summary>
+        </member>
+        <member name="P:Persistencia.SQL.Fakes.StubSQLCiudadanos.InstanceObserver">
+            <summary>Obtiene o establece el observador de la instancia.</summary>
+        </member>
+    </members>
+</doc>

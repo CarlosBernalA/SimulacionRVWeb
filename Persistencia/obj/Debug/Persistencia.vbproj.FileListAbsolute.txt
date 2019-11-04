@@ -1,0 +1,79 @@
+F:\Proyectos Visual Studio\SCD\Persistencia\bin\Debug\Persistencia.dll
+F:\Proyectos Visual Studio\SCD\Persistencia\bin\Debug\Persistencia.pdb
+F:\Proyectos Visual Studio\SCD\Persistencia\bin\Debug\Persistencia.xml
+F:\Proyectos Visual Studio\SCD\Persistencia\obj\Debug\Persistencia.vbprojResolveAssemblyReference.cache
+F:\Proyectos Visual Studio\SCD\Persistencia\obj\Debug\Persistencia.Resources.resources
+F:\Proyectos Visual Studio\SCD\Persistencia\obj\Debug\Persistencia.vbproj.GenerateResource.Cache
+F:\Proyectos Visual Studio\SCD\Persistencia\obj\Debug\Persistencia.dll
+F:\Proyectos Visual Studio\SCD\Persistencia\obj\Debug\Persistencia.xml
+F:\Proyectos Visual Studio\SCD\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\Persistencia\bin\Debug\Persistencia.xml
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\Persistencia\obj\Debug\Persistencia.vbprojResolveAssemblyReference.cache
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\Persistencia\obj\Debug\Persistencia.Resources.resources
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\Persistencia\obj\Debug\Persistencia.vbproj.GenerateResource.Cache
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\Persistencia\obj\Debug\Persistencia.xml
+C:\Users\RIPLEY\Documents\Diseño Web\ASP.NET\SCD\Persistencia\obj\Debug\Persistencia.pdb
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\Persistencia\bin\Debug\Persistencia.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\Persistencia\bin\Debug\Persistencia.pdb
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\Persistencia\bin\Debug\Persistencia.xml
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\Persistencia\obj\Debug\Persistencia.vbprojResolveAssemblyReference.cache
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\Persistencia\obj\Debug\Persistencia.Resources.resources
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\Persistencia\obj\Debug\Persistencia.vbproj.GenerateResource.Cache
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\Persistencia\obj\Debug\Persistencia.dll
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\Persistencia\obj\Debug\Persistencia.xml
+F:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\Persistencia\obj\Debug\Persistencia.pdb
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\Persistencia\bin\Debug\Persistencia.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\Persistencia\bin\Debug\Persistencia.pdb
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\Persistencia\bin\Debug\Persistencia.xml
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\Persistencia\obj\Debug\Persistencia.Resources.resources
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\Persistencia\obj\Debug\Persistencia.vbproj.GenerateResource.Cache
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\Persistencia\obj\Debug\Persistencia.dll
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\Persistencia\obj\Debug\Persistencia.xml
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\Persistencia\obj\Debug\Persistencia.pdb
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\Persistencia\bin\Debug\Persistencia.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\Persistencia\bin\Debug\Persistencia.pdb
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\Persistencia\bin\Debug\Persistencia.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\Persistencia\obj\Debug\Persistencia.vbprojResolveAssemblyReference.cache
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\Persistencia\obj\Debug\Persistencia.Resources.resources
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\Persistencia\obj\Debug\Persistencia.vbproj.GenerateResource.Cache
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\Persistencia\obj\Debug\Persistencia.dll
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\Persistencia\obj\Debug\Persistencia.xml
+\\25.90.202.225\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\Persistencia\obj\Debug\Persistencia.pdb
+D:\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\Persistencia\obj\Debug\Persistencia.vbprojResolveAssemblyReference.cache
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\Persistencia\bin\Debug\Persistencia.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\Persistencia\bin\Debug\Persistencia.pdb
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\Persistencia\bin\Debug\Persistencia.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\Persistencia\obj\Debug\Persistencia.Resources.resources
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\Persistencia\obj\Debug\Persistencia.vbproj.GenerateResource.Cache
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\Persistencia\obj\Debug\Persistencia.dll
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\Persistencia\obj\Debug\Persistencia.xml
+\\192.168.137.1\ProyectoBI Chadin\AVANCES WEB\avance 09-02-19\SCD\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\Persistencia\bin\Debug\Persistencia.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\Persistencia\obj\Debug\Persistencia.Resources.resources
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\Persistencia\obj\Debug\Persistencia.vbproj.GenerateResource.Cache
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\Persistencia\obj\Debug\Persistencia.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\SCD\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\Persistencia\bin\Debug\Persistencia.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\Persistencia\obj\Debug\Persistencia.vbprojResolveAssemblyReference.cache
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\Persistencia\obj\Debug\Persistencia.Resources.resources
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\Persistencia\obj\Debug\Persistencia.vbproj.GenerateResource.Cache
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\Persistencia\obj\Debug\Persistencia.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\SCD\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\Persistencia\bin\Debug\Persistencia.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\Persistencia\obj\Debug\Persistencia.vbprojResolveAssemblyReference.cache
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\Persistencia\obj\Debug\Persistencia.Resources.resources
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\Persistencia\obj\Debug\Persistencia.vbproj.GenerateResource.Cache
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\Persistencia\obj\Debug\Persistencia.xml
+C:\Users\Maickol\Documents\Web\ASP.NET\Plantillas\Admin Klorofil\SCD\Persistencia\obj\Debug\Persistencia.pdb
